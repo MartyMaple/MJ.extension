@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "MJ",
+    "description": "Extensions for PyRevit",
+    "author": "Martin Javurek",
+    "author_profile": "https://github.com/martymaple",
+    "url": "https://github.com/MartyMaple/GitHub_MJ_Repository.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
